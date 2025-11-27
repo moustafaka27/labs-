@@ -67,6 +67,7 @@
 - **Tech:** Python, Pandas, Seaborn, Power BI
 
 
+
 ### 🔹 Housing Price Prediction
 - **Description:** Regression model with feature engineering & evaluation.
 - **Tech:** Scikit-Learn, NumPy, Matplotlib
